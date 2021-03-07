@@ -1,29 +1,25 @@
+Hi, I'm Abid. An Independent Researcher & Content Writer.
+I make sure your competitors never steal your thunder ;)
+
+
+I have been working as a freelance content writer for more than five years. During this time, I have had the opportunity to work with several international companies. 
+As a researcher, I have acquired extensive knowledge about popular practices in the content marketing area. 
+
+On top of that, as a writer, my motto is to deliver high quality content that best benefits the client's business.
+
+To check my recent works, visit my github-pages website: abidessentials.github.io
+
+
+
+
+
+
+
+Website Template Credit:
+
 Prologue by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-This is Prologue, a simple, single page responsive site template. It features a
-clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
-
-Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
-more of her amazing work over at deviantART:
-
-http://ineedchemicalx.deviantart.com/
-
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
-
-Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
-images you can use for pretty much whatever.
-
-(* = Not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
 
 Credits:
 
